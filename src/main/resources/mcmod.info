@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cm",
+  "name": "Compound Bow Mod",
+  "description": "Adding Compound Bows to Minecraft and many more items.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Trevvy342"],
+  "credits": "KaptainWutax for help",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
